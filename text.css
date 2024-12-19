@@ -1,0 +1,31 @@
+<style type="text/css" media="all">
+.grabBannerBox.dilseVideos .owl-dots{
+    border:none;
+  }
+  img.dilseopenImg {
+      margin-top: 110px;
+  }
+  
+  @media (min-width:992px){
+    .row.mrg0{margin:0;display: -ms-flexbox;display: flex !important;-ms-flex-wrap: wrap;flex-wrap: wrap;}
+    .offset-4 {
+      margin-left: 33.333333%;
+  }
+  }
+  @media (max-width:991px){
+    .offset-4 {
+    margin-left: 0;
+    }
+    img.dilseopenImg {
+      margin-top: 80px;
+  }
+  }
+  @media (max-width: 767px) {
+      .ods_topbannner .facebg {
+          background-size: 55% !important;
+      }
+    .ods_topbannner .facebg h2 img{
+          width: 38%;
+      }
+  }
+  </style>
